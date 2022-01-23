@@ -1,4 +1,8 @@
 # README
+# Facebook clone 
+
+### All screenshots added in Screenshots folder.
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
