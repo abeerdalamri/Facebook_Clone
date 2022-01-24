@@ -33,11 +33,11 @@ All screenshots added in Screenshots folder.
 
 #### Users
 
-[demo1](https://user-images.githubusercontent.com/97512710/150774611-5af095ce-674f-447f-92f3-85b72143d27d.png)
+![demo1](https://user-images.githubusercontent.com/97512710/150774611-5af095ce-674f-447f-92f3-85b72143d27d.png)
 
 #### Posts
 
-[demo2](https://user-images.githubusercontent.com/97512710/150774739-e83686fb-cf80-4544-bbd1-e4181bc60c04.png)
+![demo2](https://user-images.githubusercontent.com/97512710/150774739-e83686fb-cf80-4544-bbd1-e4181bc60c04.png)
 
 
 
